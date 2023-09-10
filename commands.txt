@@ -1,0 +1,6 @@
+flutter doctor
+which flutter(not working on cmd)
+flutter create <projectname in small>
+flutter pub get
+//pub get
+>flutter new -----in vs code bar

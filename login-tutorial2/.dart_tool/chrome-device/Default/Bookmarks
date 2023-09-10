@@ -1,0 +1,70 @@
+{
+   "checksum": "63c40acc8809e4ac003a35e8dd42e847",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13338470856094104",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13311722314147188",
+            "date_last_used": "0",
+            "date_modified": "13311722314147188",
+            "guid": "9cccd7c6-eff6-42bf-9c7c-ceffd1374da6",
+            "id": "6",
+            "name": "Bookmark Bar",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13311722314147412",
+            "date_last_used": "0",
+            "date_modified": "13311722314147412",
+            "guid": "42159ab6-a3eb-4ee7-bac3-0a3c543d6dd0",
+            "id": "7",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13311722314147455",
+            "date_last_used": "0",
+            "date_modified": "13311722314147455",
+            "guid": "d0cf6cc5-dd94-4ab2-bee9-01893aae6027",
+            "id": "8",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13338470856094105",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13338470856094106",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCPJiFmqKAQAAKg4QABgBIAAoBDAAOABAABIAIAEqGFJFY25TT1gzUytGclFNZUd1d1Z3WVE9PaAGDBKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQxZjY3ZjBhNy0wN2Q1LTU3NTItYTU0MC00OTM3ZTRhMGI0YzgYACAAKAAwxuvUqMEwOOWC1ajBMEDlgtWowTBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqcBCAYSogEKHHVxdnRVemlDLzhxUTdTcUJRbDNHYzRqczduMD0SJDljY2NkN2M2LWVmZjYtNDJiZi05YzdjLWNlZmZkMTM3NGRhNhgAIAAoADCK7pH+wjA46e+R/sIwQOnvkf7CMEocNU5qbjkrZ09GZERneVZNcDNMbVNTU0N4ZyswPVoeIhxKdm83NnZXNUpBUllURmhwdjNzZlpQR1pxYWs9ZQAAAAASqAEICBKjAQocMTJyQWw5bGNJbnF3c25nalE2Z3NnTjJsRk5nPRIkZDBjZjZjYzUtZGQ5NC00YWIyLWJlZTktMDE4OTNhYWU2MDI3GAAgACgAMIrukf7CMDiI8JH+wjBAiPCR/sIwShx3V2hLUlB0L1JvbDdrbkVJRXA4R0RxejloRjQ9Wh8iHdJjN3RpOFV3bkVWOTFzQU85d2VsZW0yMWZOMEE9ZQAAAAASqAEIBxKjAQocbjJVQXpWYUJGS2tPa0l6ZUZ0dWtJRWtxZWFrPRIkNDIxNTlhYjYtYTNlYi00ZWU3LWJhYzMtMGEzYzU0M2Q2ZGQwGAAgACgAMIrukf7CMDjK75H+wjBAyu+R/sIwShxKL1IxRERLQ2xOa1FCcFp5MUNoTDZMODBjaW89Wh8iHaUrQjk0UFRlcGtrTytZNmJTTmI0UXRlQ3UvWlE9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMWUyYjQ2ZjMtM2FhZi01ZDExLTk3MTEtZDQ0MjU1OTRhNDQ5GAAgACgAMMbr1KjBMDj1gtWowTBA9YLVqMEwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRmZDkwYjEzYS1hYTk2LTVkOTQtYmZmYS1mYmJjOTVlMWQzZTYYACAAKAAwxuvUqMEwOKCE1ajBMECghNWowTBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
