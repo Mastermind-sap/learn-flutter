@@ -107,14 +107,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
-  nested:
-    dependency: transitive
-    description:
-      name: nested
-      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0"
   path:
     dependency: transitive
     description:
@@ -123,14 +115,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
-  provider:
+  playify:
     dependency: "direct main"
     description:
-      name: provider
-      sha256: cdbe7530b12ecd9eb455bdaa2fcb8d4dad22e80b8afb4798b41479d5ce26847f
+      name: playify
+      sha256: c48e4315a985992619a83550744891a6b56f11a349875626d7e6ffb23a8d08f4
       url: "https://pub.dev"
     source: hosted
-    version: "6.0.5"
+    version: "2.2.1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -201,5 +193,5 @@ packages:
     source: hosted
     version: "0.1.4-beta"
 sdks:
-  dart: ">=3.1.0-185.0.dev <4.0.0"
-  flutter: ">=1.16.0"
+  dart: ">=3.1.4 <4.0.0"
+  flutter: ">=1.10.0"
